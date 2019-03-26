@@ -1,4 +1,4 @@
-from: local-prod
+from: local-prod1
 
 server:
   port: 3355
